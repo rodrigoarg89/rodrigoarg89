@@ -21,8 +21,7 @@
   https://my-portafolio-rodrigo-arganaraz.netlify.app/
       
 * Linkedin
-  linkedin.com/in/rodrigo-argañaraz
-  https://www.linkedin.com/in/rodrigo-arga%C3%B1araz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuOls8wJDTV%2BuZnP6Ae9n8A%3D%3D
+  https://linkedin.com/in/rodrigo-argañaraz
 
 * Email
   rodrigoarganaraz89@gmail.com
