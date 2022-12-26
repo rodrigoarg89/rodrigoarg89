@@ -9,7 +9,7 @@
      Self-taught from a very young age, always open to new challenges!
      Thanks for viewing my readme!
 
-# 🌱 I’m currently learning React Native!
+# 🌱 I’m currently learning PYTHON!
 
 # 💞️ I’m looking to collaborate 
      on companies that use web development technology to its full potential, mainly, since that will give 
